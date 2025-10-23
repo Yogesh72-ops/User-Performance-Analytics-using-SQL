@@ -9,10 +9,6 @@ This project is designed to help beginners understand SQL querying and performan
 - Gain hands-on experience with SQL functions like `COUNT`, `SUM`, `AVG`, `EXTRACT()`, and `DENSE_RANK()`.
 - Develop skills for performance analysis using SQL by solving different types of data problems related to user performance.
 
-## Project Level: Beginner
-
-This project is designed for beginners who are familiar with the basics of SQL and want to learn how to handle real-world data analysis problems. You'll be working with a small dataset and writing SQL queries to solve different tasks that are commonly encountered in data analytics.
-
 ## SQL Mentor User Performance Dataset
 
 The dataset consists of information about user submissions for an online learning platform. Each submission includes:
